@@ -1,4 +1,4 @@
-package com.billpocket.ep.admin.web.controllers;
+package edu.dccarlos.spring.flux.sample.web.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

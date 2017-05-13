@@ -1,4 +1,4 @@
-package com.billpocket.ep.admin.web.controllers;
+package edu.dccarlos.spring.flux.sample.web.controllers;
 
 import java.util.Arrays;
 import java.util.List;
